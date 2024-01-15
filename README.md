@@ -16,6 +16,8 @@ I’m a student and currently learning PostgreSQL.
 ---
 [![](https://visitcount.itsvg.in/api?id=Bravegurung&icon=0&color=0)](https://visitcount.itsvg.in)
 
+#Don't want to erase the manual below as it shows my starting days.
+#Keeping humble, keeping real🤗😇😁.
 
 ## OpenCV: Open Source Computer Vision Library
 
