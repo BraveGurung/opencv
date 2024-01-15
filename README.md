@@ -16,49 +16,6 @@ I’m a student and currently learning PostgreSQL.
 ---
 [![](https://visitcount.itsvg.in/api?id=Bravegurung&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Time-Based Greeting</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            text-align: center;
-            margin: 100px;
-        }
-        #greeting {
-            font-size: 24px;
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <div id="greeting"></div>
-
-    <script>
-        const greetingElement = document.getElementById('greeting');
-        const hour = new Date().getHours();
-
-        let greeting;
-
-        if (hour >= 5 && hour < 12) {
-            greeting = 'Good morning!';
-        } else if (hour >= 12 && hour < 18) {
-            greeting = 'Good afternoon!';
-        } else {
-            greeting = 'Good evening!';
-        }
-
-        greetingElement.textContent = greeting;
-    </script>
-</body>
-</html>
-
-
 
 ## OpenCV: Open Source Computer Vision Library
 
